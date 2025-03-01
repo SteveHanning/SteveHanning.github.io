@@ -1,0 +1,11 @@
+.showNav {
+    display: none;
+}
+
+.off {
+    display: none;
+}
+
+nav ul {
+    list-style: none;
+}
